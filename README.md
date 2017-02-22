@@ -1,0 +1,2 @@
+# magento-blog
+Learning magento 
